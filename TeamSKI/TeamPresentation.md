@@ -7,8 +7,8 @@ Development of *in silico* tools for the design and identification of selective 
 ![Simone Fulle](http://media.bio.mx/teams/ski/fulle.jpg)
 #### Group leader
 ##### Previous work
-2011-2013: Postdoc at InhibOx Ltd., Oxford (CADD & Cheminformatics)  
-2010 PhD at the Goethe-University, Frankfurt (Molecular Bioinformatics, Prof. Gohlke)  
+2011-2013: Postdoc in Computer-Aided Drug Design (InhibOx Ltd., Oxford)  
+2010 PhD in Structural Bioinformatics (Goethe-University, Frankfurt)  
 
 Research stay at the Heinrich-Heine, Arizona State, and Yale University; supported anti-infective projects.  
 ##### Contact

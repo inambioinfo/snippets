@@ -1,8 +1,8 @@
 # Team SKI - Selective Kinase Inhibitors
 ## Research
-Development of *in silico* tools for the design and identification of selective kinase knhibitors.
-## Research Sponsor
-Merck Serono the biopharmaceutical division of Merck KGaA
+Development of *in silico* tools for the design and identification of selective kinase inhibitors.
+#### Research Sponsor
+[Merck Serono](http://www.merckserono.com) the biopharmaceutical division of Merck KGaA
 
 ## Members
 ### Dr. Simone Fulle

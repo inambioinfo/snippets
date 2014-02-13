@@ -55,4 +55,21 @@ E-mail: <lastname@bio.mx>
 Phone: +49-6221-6545627  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=237732863)  
 
+## Mentors
+### Dr. Friedrich Rippmann
+#### Sponsor Champion
+Director, Global Computational Chemistry, at Merck Serono, Merck KGaA  
+
+##### Contact
+E-mail: <firstname.lastname@merckgroup.com>  
+
+### Prof. Dr. Rebecca Wade
+
+Group leader of the Molecular and Cellular Modeling (MCM) group at HITS  
+Professor at the Zentrum für Molekulare Biologie (ZMBH), Heidelberg University  
+Group leader in the DKFZ-ZMBH Alliance  
+
+##### Contact
+E-mail: <firstname.lastname@h-its.org>  
+
 ## Publications

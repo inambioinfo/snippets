@@ -1,7 +1,9 @@
 # Team SKI - Selective Kinase Inhibitors
-Follow us [@BioMed_X_SKI](https://twitter.com/BioMed_X_SKI)  
-  
+## Research
 Development of *in silico* tools for the design and identification of selective kinase knhibitors.
+## Research Sponsor
+Merck Serono the biopharmaceutical division of Merck KGaA
+
 ## Members
 ### Dr. Simone Fulle
 ![Simone Fulle](http://media.bio.mx/teams/ski/fulle.jpg)
@@ -16,6 +18,7 @@ E-mail: <lastname@bio.mx>
 Phone: +49-6221-6545613  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)  
 
+~#~
 ### Dr. Sameh Eid
 ![Sameh Eid](http://media.bio.mx/teams/ski/eid.jpg)
 #### Postdoc
@@ -29,6 +32,7 @@ Phone: +49-6221-6545614
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=64778620)  
 Twitter: [@eid_sameh](https://twitter.com/eid_sameh)
 
+~#~
 ### Dr. Samo Turk
 ![Samo Turk](http://media.bio.mx/teams/ski/turk.jpg)
 #### Postdoc
@@ -42,6 +46,7 @@ Phone: +49-6221-6545614
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=168433777)  
 Twitter: [@samoturk](https://twitter.com/samoturk)  
 
+~#~
 ### Dr. Andrea Volkamer
 ![Andrea Volkamer](http://media.bio.mx/teams/ski/volkamer.jpg)
 #### Postdoc

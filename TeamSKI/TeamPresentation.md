@@ -14,7 +14,7 @@ Development of *in silico* tools for the design and identification of selective 
 
 Research stay at the Heinrich-Heine, Arizona State, and Yale University; supported anti-infective projects.  
 ##### Contact
-E-mail: <lastname@bio.mx>  
+E-mail: lastname@bio.mx  
 Phone: +49-6221-6545613  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)  
 
@@ -28,7 +28,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)
 2008-2010: Assistant lecturer at the German University, Cairo  
 Developed scoring schemes and optimized PK and PD profiles of carbohydrates.  
 ##### Contact
-E-mail: <lastname@bio.mx>  
+E-mail: lastname@bio.mx  
 Phone: +49-6221-6545614  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=64778620)  
 Twitter: [@eid_sameh](https://twitter.com/eid_sameh)
@@ -43,7 +43,7 @@ Twitter: [@eid_sameh](https://twitter.com/eid_sameh)
 2011: PhD in medicinal chemistry at the University of Ljubljana, supervisor Prof. Gobec  
 Contributed to several antibacterial drug design projects; collaborated with GSK.  
 ##### Contact
-E-mail: <lastname@bio.mx>  
+E-mail: lastname@bio.mx  
 Phone: +49-6221-6545614  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=168433777)  
 Twitter: [@samoturk](https://twitter.com/samoturk)  
@@ -59,7 +59,7 @@ Twitter: [@samoturk](https://twitter.com/samoturk)
 
 Research stay at the Purdue University; developed software for target assessment; collaborated with Merck and BioSolveIT.
 ##### Contact
-E-mail: <lastname@bio.mx>  
+E-mail: lastname@bio.mx  
 Phone: +49-6221-6545627  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=237732863)  
 
@@ -69,7 +69,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=237732863)
 Director, Global Computational Chemistry, at Merck Serono, Merck KGaA  
 
 ##### Contact
-E-mail: <firstname.lastname@merckgroup.com>  
+E-mail: firstname.lastname@merckgroup.com  
 
 ~#~
 
@@ -80,6 +80,6 @@ Professor at the Zentrum für Molekulare Biologie (ZMBH), Heidelberg University
 Group leader in the DKFZ-ZMBH Alliance  
 
 ##### Contact
-E-mail: <firstname.lastname@h-its.org>  
+E-mail: firstname.lastname@h-its.org  
 
 ## Publications

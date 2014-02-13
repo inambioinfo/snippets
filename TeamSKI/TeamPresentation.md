@@ -19,6 +19,7 @@ Phone: +49-6221-6545613
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)  
 
 ~#~
+
 ### Dr. Sameh Eid
 ![Sameh Eid](http://media.bio.mx/teams/ski/eid.jpg)
 #### Postdoc
@@ -33,6 +34,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=64778620)
 Twitter: [@eid_sameh](https://twitter.com/eid_sameh)
 
 ~#~
+
 ### Dr. Samo Turk
 ![Samo Turk](http://media.bio.mx/teams/ski/turk.jpg)
 #### Postdoc
@@ -47,6 +49,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=168433777)
 Twitter: [@samoturk](https://twitter.com/samoturk)  
 
 ~#~
+
 ### Dr. Andrea Volkamer
 ![Andrea Volkamer](http://media.bio.mx/teams/ski/volkamer.jpg)
 #### Postdoc
@@ -67,6 +70,8 @@ Director, Global Computational Chemistry, at Merck Serono, Merck KGaA
 
 ##### Contact
 E-mail: <firstname.lastname@merckgroup.com>  
+
+~#~
 
 ### Prof. Dr. Rebecca Wade
 #### Academic mentor

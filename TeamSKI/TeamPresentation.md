@@ -54,10 +54,9 @@ Twitter: [@samoturk](https://twitter.com/samoturk)
 ![Andrea Volkamer](http://media.bio.mx/teams/ski/volkamer.jpg)
 #### Postdoc
 ##### Previous work
-2013: Postdoc at the University of Hamburg (Pro Exzellenzia Fellowship)  
-2013: PhD in bioinformatics at the University of Hamburg, supervisor Prof. Rarey  
-
-Research stay at the Purdue University; developed software for target assessment; collaborated with Merck and BioSolveIT.
+Feb. - Aug. 2013: Postdoc in the working group for algorithmic molecular design at the Center for Bioinformatics, University of Hamburg (Pro Exzellenzia Fellowship)  
+Jan. 2013: PhD in structural bioinformatics at the Center for Bioinformatics, University of Hamburg, supervisor Prof. Rarey  
+Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT; research stay at the Purdue University, IN, USA (2007/2008).  
 ##### Contact
 E-mail: lastname@bio.mx  
 Phone: +49-6221-6545627  

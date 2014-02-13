@@ -62,14 +62,14 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=237732863)
 
 ## Mentors
 ### Dr. Friedrich Rippmann
-#### Sponsor Champion
+#### Industry mentor
 Director, Global Computational Chemistry, at Merck Serono, Merck KGaA  
 
 ##### Contact
 E-mail: <firstname.lastname@merckgroup.com>  
 
 ### Prof. Dr. Rebecca Wade
-#### Academic Mentor
+#### Academic mentor
 Group leader of the Molecular and Cellular Modeling (MCM) group at HITS  
 Professor at the Zentrum für Molekulare Biologie (ZMBH), Heidelberg University  
 Group leader in the DKFZ-ZMBH Alliance  

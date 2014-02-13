@@ -1,6 +1,6 @@
 # Team SKI - Selective Kinase Inhibitors
-Follow us [@BioMed_X_SKI](https://twitter.com/BioMed_X_SKI) 
-## Research
+Follow us [@BioMed_X_SKI](https://twitter.com/BioMed_X_SKI)  
+  
 Development of *in silico* tools for the design and identification of selective kinase knhibitors.
 ## Members
 ### Dr. Simone Fulle

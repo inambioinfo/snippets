@@ -26,6 +26,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)
 ##### Previous work
 2013: PhD in pharmaceutical sciences at the University of Basel, supervisor Prof. Vedani  
 2008-2010: Assistant lecturer at the German University, Cairo  
+
 Developed scoring schemes and optimized PK and PD profiles of carbohydrates.  
 ##### Contact
 E-mail: lastname@bio.mx  
@@ -41,7 +42,8 @@ Twitter: [@eid_sameh](https://twitter.com/eid_sameh)
 ##### Previous work
 2011-2013: Postdoc in CADD, cheminformatics and medicinal chemistry at the University of Ljubljana  
 2011: PhD in medicinal chemistry at the University of Ljubljana, supervisor Prof. Gobec  
-Contributed to several antibacterial drug design projects; collaborated with GSK.  
+
+Contributed to several antibacterial and anticancer drug design projects; collaborated with GSK.  
 ##### Contact
 E-mail: lastname@bio.mx  
 Phone: +49-6221-6545614  
@@ -56,6 +58,7 @@ Twitter: [@samoturk](https://twitter.com/samoturk)
 ##### Previous work
 Feb. - Aug. 2013: Postdoc in the working group for algorithmic molecular design at the Center for Bioinformatics, University of Hamburg (Pro Exzellenzia Fellowship)  
 Jan. 2013: PhD in structural bioinformatics at the Center for Bioinformatics, University of Hamburg, supervisor Prof. Rarey  
+
 Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT; research stay at the Purdue University, IN, USA (2007/2008).  
 ##### Contact
 E-mail: lastname@bio.mx  

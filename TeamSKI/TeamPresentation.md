@@ -64,7 +64,7 @@ Director, Global Computational Chemistry, at Merck Serono, Merck KGaA
 E-mail: <firstname.lastname@merckgroup.com>  
 
 ### Prof. Dr. Rebecca Wade
-
+#### Academic Mentor
 Group leader of the Molecular and Cellular Modeling (MCM) group at HITS  
 Professor at the Zentrum für Molekulare Biologie (ZMBH), Heidelberg University  
 Group leader in the DKFZ-ZMBH Alliance  

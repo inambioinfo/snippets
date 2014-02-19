@@ -1,9 +1,8 @@
 # Team SKI - Selective Kinase Inhibitors
 ## Research
-Development of *in silico* tools for the design and identification of selective kinase inhibitors.
+The group is dedicated to develop computational methods that impact hit identification and lead optmization in preclinical R&D projects. In particular, we are working on innovative solutions that support the rational design and identification of selective kinase inhibitors. Our research is focussed on understanding and predicting the determinants of binding processes as well as mining compound profiling data to faciliate the transfer of SAR information; the techniques developed and applied by us are grounded in bio- and cheminformatics.
 #### Research Sponsor
-[Merck Serono](http://www.merckserono.com) the biopharmaceutical division of Merck KGaA
-
+We are grateful to [Merck Serono](http://www.merckserono.com) the biopharmaceutical division of Merck KGaA for supporting our work.
 ## Members
 ### Dr. Simone Fulle
 ![Simone Fulle](http://media.bio.mx/teams/ski/fulle.jpg)
@@ -14,7 +13,7 @@ Development of *in silico* tools for the design and identification of selective 
 
 Research stay at the Heinrich-Heine, Arizona State, and Yale University; supported anti-infective projects.  
 ##### Contact
-E-mail: lastname@bio.mx  
+E-mail: <fulle@bio.mx>  
 Phone: +49-6221-6545613  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)  
 
@@ -29,7 +28,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)
 
 Developed scoring schemes and optimized PK and PD profiles of carbohydrates.  
 ##### Contact
-E-mail: lastname@bio.mx  
+E-mail: <eid@bio.mx>  
 Phone: +49-6221-6545614  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=64778620)  
 Twitter: [@eid_sameh](https://twitter.com/eid_sameh)
@@ -45,7 +44,7 @@ Twitter: [@eid_sameh](https://twitter.com/eid_sameh)
 
 Contributed to several antibacterial and anticancer drug design projects; collaborated with GSK.  
 ##### Contact
-E-mail: lastname@bio.mx  
+E-mail: <turk@bio.mx>  
 Phone: +49-6221-6545614  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=168433777)  
 Twitter: [@samoturk](https://twitter.com/samoturk)  
@@ -61,7 +60,7 @@ Jan. 2013: PhD in structural bioinformatics at the Center for Bioinformatics, Un
 
 Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT; research stay at the Purdue University, IN, USA (2007/2008).  
 ##### Contact
-E-mail: lastname@bio.mx  
+E-mail: <volkamer@bio.mx>  
 Phone: +49-6221-6545627  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=237732863)  
 
@@ -71,7 +70,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=237732863)
 Director, Global Computational Chemistry, at Merck Serono, Merck KGaA  
 
 ##### Contact
-E-mail: firstname.lastname@merckgroup.com  
+E-mail: <friedrich.rippmann@merckgroup.com>  
 
 ~#~
 
@@ -82,6 +81,6 @@ Professor at the Zentrum für Molekulare Biologie (ZMBH), Heidelberg University
 Group leader in the DKFZ-ZMBH Alliance  
 
 ##### Contact
-E-mail: firstname.lastname@h-its.org  
+E-mail: <rebecca.wade@h-its.org>  
 
 ## Publications

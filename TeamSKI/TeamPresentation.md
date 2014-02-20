@@ -26,7 +26,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)
 ![Sameh Eid](http://media.bio.mx/teams/ski/eid.jpg)
 #### Postdoc
 ##### Previous work
-2013: PhD in Pharmaceutical Sciences at the University of Basel
+2013: PhD in Pharmaceutical Sciences at the University of Basel  
 2008-2010: Assistant lecturer at the German University, Cairo  
 
 Developed scoring schemes and optimized PK and PD profiles of carbohydrates.  
@@ -58,8 +58,8 @@ Twitter: [@samoturk](https://twitter.com/samoturk)
 ![Andrea Volkamer](http://media.bio.mx/teams/ski/volkamer.jpg)
 #### Postdoc
 ##### Previous work
-Feb. - Aug. 2013: Postdoc in the working group for algorithmic molecular design at the Center for Bioinformatics, University of Hamburg (Pro Exzellenzia Fellowship)  
-Jan. 2013: PhD in structural bioinformatics at the Center for Bioinformatics, University of Hamburg, supervisor Prof. Rarey  
+Feb. - Aug. 2013: Postdoc in Bioinformatics at the University of Hamburg (Pro Exzellenzia Fellowship)  
+2013: PhD in Structural Bioinformatics at the Center for Bioinformatics, University of Hamburg
 
 Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT; research stay at the Purdue University, IN, USA (2007/2008).  
 ##### Contact

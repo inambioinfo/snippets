@@ -68,6 +68,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=237732863)
 ### Dr. Friedrich Rippmann
 #### Industry mentor
 Director for Global Computational Chemistry at Merck Serono
+
 ~#~
 
 ### Prof. Dr. Rebecca Wade

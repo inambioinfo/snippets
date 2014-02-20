@@ -8,10 +8,11 @@ The research of this team is kindly sponsored by [Merck Serono](http://www.merck
 ![Simone Fulle](http://media.bio.mx/teams/ski/fulle.jpg)
 #### Group leader
 ##### Previous work
-2011-2013: Postdoc in Computer-Aided Drug Design at InhibOx Ltd., Oxford
-2010-2011: Postdoc in Molecular Bioinformatics at the Heinrich-Heine University, Düsseldorf
-2010: PhD in Structural Bioinformatics at the Goethe-University, Frankfurt/Main
-Worked on flexibility predictions of biomolecules and supported anti-infective projects; research stay at the Arizona State and Yale University.
+2011-2013: Postdoc in Computer-Aided Drug Design at InhibOx Ltd., Oxford  
+2010-2011: Postdoc in Molecular Bioinformatics at the Heinrich-Heine University, Düsseldorf  
+2010: PhD in Structural Bioinformatics at the Goethe-University, Frankfurt/Main  
+Worked on flexibility predictions of biomolecules and supported anti-infective projects;   
+research stay at the Arizona State and Yale University.
 
 ##### Contact
 E-mail: <fulle@bio.mx>  

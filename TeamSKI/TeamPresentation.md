@@ -26,7 +26,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=79137219)
 ![Sameh Eid](http://media.bio.mx/teams/ski/eid.jpg)
 #### Postdoc
 ##### Previous work
-2013: PhD in pharmaceutical sciences at the University of Basel, supervisor Prof. Vedani  
+2013: PhD in Pharmaceutical Sciences at the University of Basel
 2008-2010: Assistant lecturer at the German University, Cairo  
 
 Developed scoring schemes and optimized PK and PD profiles of carbohydrates.  
@@ -42,8 +42,8 @@ Twitter: [@eid_sameh](https://twitter.com/eid_sameh)
 ![Samo Turk](http://media.bio.mx/teams/ski/turk.jpg)
 #### Postdoc
 ##### Previous work
-2011-2013: Postdoc in CADD, cheminformatics and medicinal chemistry at the University of Ljubljana  
-2011: PhD in medicinal chemistry at the University of Ljubljana, supervisor Prof. Gobec  
+2011-2013: Postdoc in Computer-Aided Drug Design, Cheminformatics and Medicinal Chemistry at the University of Ljubljana  
+2011: PhD in Medicinal Chemistry at the University of Ljubljana 
 
 Contributed to several antibacterial and anticancer drug design projects; collaborated with GSK.  
 ##### Contact

@@ -59,7 +59,7 @@ Twitter: [@samoturk](https://twitter.com/samoturk)
 #### Postdoc
 ##### Previous work
 2013: Postdoc in Bioinformatics at the University of Hamburg (Pro Exzellenzia Fellowship)  
-01/2013: PhD in Structural Bioinformatics at the Center for Bioinformatics, University of Hamburg
+01/2013: PhD in Structural Bioinformatics at the University of Hamburg
 
 Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT;  
 research stay at the Purdue University, IN, USA (2007/2008).  

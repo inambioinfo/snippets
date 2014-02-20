@@ -2,7 +2,7 @@
 ## Research
 The group is dedicated to develop computational methods that impact hit identification and lead optmization in preclinical R&D projects. In particular, we are working on innovative solutions that support the rational design and identification of selective kinase inhibitors. Our research is focussed on understanding and predicting the determinants of binding processes as well as mining compound profiling data to faciliate the transfer of SAR information; the techniques developed and applied by us are grounded in bio- and cheminformatics.
 #### Research Sponsor
-We are grateful to [Merck Serono](http://www.merckserono.com) the biopharmaceutical division of Merck KGaA for supporting our work.
+The research of this team is kindly sponsored by [Merck Serono](http://www.merckserono.com).
 ## Members
 ### Dr. Simone Fulle
 ![Simone Fulle](http://media.bio.mx/teams/ski/fulle.jpg)

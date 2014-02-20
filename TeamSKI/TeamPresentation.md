@@ -64,7 +64,7 @@ E-mail: <volkamer@bio.mx>
 Phone: +49-6221-6545627  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=237732863)  
 
-## Mentors
+### Mentors
 ### Dr. Friedrich Rippmann
 #### Industry mentor
 Director for Global Computational Chemistry at Merck Serono
@@ -75,5 +75,11 @@ Director for Global Computational Chemistry at Merck Serono
 #### Academic mentor
 Group leader at the Heidelberg Institute for Theoretical Studies & 
 Professor at the University of Heidelberg
+
+
+- Dr. Friedrich Rippmann: Director for Global Computational Chemistry at Merck Serono (Industry mentor)
+- Prof. Dr. Rebecca Wade: roup leader at the Heidelberg Institute for Theoretical Studies & 
+Professor at the University of Heidelberg (Academic mentor)
+- Dr. Christian Tidona: Managing Director at the BioMed X Innovation Center
 
 ## Publications

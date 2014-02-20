@@ -81,7 +81,7 @@ Group leader at the Heidelberg Institute for Theoretical Studies &
 Professor at the University of Heidelberg
 
 
-#### Mentors (alternative)
+#### Mentors (alternative a simple listing?)
 - Dr. Friedrich Rippmann: Director for Global Computational Chemistry at Merck Serono (Industry mentor)
 - Prof. Dr. Rebecca Wade: Group leader at the Heidelberg Institute for Theoretical Studies & 
 Professor at the University of Heidelberg (Academic mentor)

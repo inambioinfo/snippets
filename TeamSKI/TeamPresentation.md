@@ -58,10 +58,11 @@ Twitter: [@samoturk](https://twitter.com/samoturk)
 ![Andrea Volkamer](http://media.bio.mx/teams/ski/volkamer.jpg)
 #### Postdoc
 ##### Previous work
-Feb. - Aug. 2013: Postdoc in Bioinformatics at the University of Hamburg (Pro Exzellenzia Fellowship)  
-2013: PhD in Structural Bioinformatics at the Center for Bioinformatics, University of Hamburg
+2013: Postdoc in Bioinformatics at the University of Hamburg (Pro Exzellenzia Fellowship)  
+01/2013: PhD in Structural Bioinformatics at the Center for Bioinformatics, University of Hamburg
 
-Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT; research stay at the Purdue University, IN, USA (2007/2008).  
+Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT;  
+research stay at the Purdue University, IN, USA (2007/2008).  
 ##### Contact
 E-mail: <volkamer@bio.mx>  
 Phone: +49-6221-6545627  

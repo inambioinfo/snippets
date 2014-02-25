@@ -64,6 +64,8 @@ E-mail: <chirasani@bio.mx>
 Phone: +49-6221-6545616  
 LinkedIn: [Profile](http://de.linkedin.com/pub/sridhar-chirasani/70/33a/22)  
 
+~#~
+
 ### Tatiana Ignashkova
 ![Tatiana Ignashkova](http://media.bio.mx/teams/msc/ignashkova.jpg)
 #### Research Associate
@@ -75,6 +77,8 @@ E-mail: <ignashkova@bio.mx>
 Phone: +49-6221-6545625  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=251581603)  
 
+~#~
+
 ### Marco Albrecht
 #### Student
 ##### Previous work
@@ -82,6 +86,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=251581603)
 ##### Contact
 E-mail: <albrecht@bio.mx>  
 
+~#~
 
 ### Anna Osipow
 #### Student

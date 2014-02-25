@@ -50,6 +50,7 @@ Contributed to several antibacterial and anticancer drug design projects; collab
 E-mail: <turk@bio.mx>  
 Phone: +49-6221-6545614  
 LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=168433777)  
+ResearchGate: [Profile](https://www.researchgate.net/profile/Samo_Turk/)  
 Twitter: [@samoturk](https://twitter.com/samoturk)  
 
 ~#~

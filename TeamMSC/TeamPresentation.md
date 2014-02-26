@@ -96,8 +96,8 @@ Hochschule Mannheim
 E-mail: <annaosipow@yahoo.de>  
 
 ##### Mentors
-- Dr. Friedrich Rippmann: Director for Global Computational Chemistry at Merck Serono (Industry mentor)
-- Prof. Dr. Rebecca Wade: Group leader at the Heidelberg Institute for Theoretical Studies & Professor at the University of Heidelberg (Academic mentor)
+- Dr. Ralph LIndemann: Director & Head of Operations Translational Innovation Platform Oncology, Merck Serono, Darmstadt (industry mentor)
+- Prof. Kiran Patil: Group Leader, Structural and Computational Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg (academic mentor)
 
 
 ## Publications

@@ -8,7 +8,7 @@ The research of this team is kindly sponsored by [Merck Serono](http://www.merck
 ![Jan H. Reiling](http://media.bio.mx/teams/msc/reiling.jpg)
 #### Group leader
 ##### Previous work
-2005-2013: postdoc with Prof. David Sabatini, Whitehead Institute/MIT, USA  
+2005-2013: Postdoc with Prof. David Sabatini, Whitehead Institute/MIT, USA  
 2001-2004: PhD with Prof. Ernst Hafen, University of Zurich, Switzerland  
 
 Human Frontier Science Organization (HFSPO) Long Term Fellowship  
@@ -26,8 +26,8 @@ LinkedIn: [Profile](http://www.linkedin.com/pub/jan-reiling/1/62b/885)
 ![Silvia Ramírez-Peinado](http://media.bio.mx/teams/msc/ramirez.jpg)
 #### Postdoc
 ##### Previous work
-2012 - 2013: postdoc with Dr. Muñoz-Pinedo, IDIBELL (Bellvitge Biomedical Research Institute), University of Barcelona - cell death regulation  
-2009 - 2012: PhD in biomedicine with Dr. Muñoz-Pinedo, IDIBELL, Barcelona - regulation of cell death, autophagy and metabolism in cancer  
+2012-2013: Postdoc with Dr. Muñoz-Pinedo, IDIBELL (Bellvitge Biomedical Research Institute), University of Barcelona - cell death regulation  
+2009-2012: PhD in biomedicine with Dr. Muñoz-Pinedo, IDIBELL, Barcelona - regulation of cell death, autophagy and metabolism in cancer  
 
 EMBO short-term fellowship  
 ##### Contact
@@ -41,9 +41,9 @@ LinkedIn: [Profile](https://www.linkedin.com/profile/view?id=198459047)
 ![Rama Krishna Kancha](http://media.bio.mx/teams/msc/kancha.jpg)
 #### Postdoc
 ##### Previous work
-Jan 2013 - Oct 2013: Postdoc at the University Medical Center Freiburg  
-Jan 2011 - Dec 2012: Postdoc at the Technical University of Munich  
-Jun 2004 - Dec 2010: PhD at the Technical University of Munich  
+2013-2013: Postdoc at the University Medical Center Freiburg  
+2011-2012: Postdoc at the Technical University of Munich  
+2004-2010: PhD at the Technical University of Munich  
 Research interests: Cancer biology, tyrosine kinases, secretory pathway, and molecular therapeutics  
 ##### Contact
 E-mail: <kancha@bio.mx>  

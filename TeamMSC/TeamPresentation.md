@@ -46,7 +46,7 @@ Jan 2011 - Dec 2012: Postdoc at the Technical University of Munich
 Jun 2004 - Dec 2010: PhD at the Technical University of Munich  
 Research interests: Cancer biology, tyrosine kinases, secretory pathway, and molecular therapeutics  
 ##### Contact
-E-mail: <chirasani@bio.mx>  
+E-mail: <kancha@bio.mx>  
 Phone: +49-6221-6545616  
 LinkedIn: [Profile](http://de.linkedin.com/pub/dr-rama-krishna-kancha/b/4ab/657)  
 Twitter: [@ickrishna](https://twitter.com/ickrishna)  

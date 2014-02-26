@@ -9,11 +9,10 @@ The research of this team is kindly sponsored by [Merck Serono](http://www.merck
 #### Group leader
 ##### Previous work
 2011-2013: Postdoc in Computer-Aided Drug Design at InhibOx Ltd., Oxford  
-2010-2011: Postdoc in Molecular Bioinformatics at the Heinrich-Heine University, Düsseldorf  
+2010-2011: Postdoc at the Heinrich-Heine University, Düsseldorf  
 2010: PhD in Structural Bioinformatics at the Goethe-University, Frankfurt/Main  
 
-Worked on flexibility predictions of biomolecules and supported anti-infective projects;   
-research stay at the Arizona State and Yale University.
+Worked on flexibility predictions of biomolecules and supported anti-infective projects; research stay at the Arizona State and Yale University.
 
 ##### Contact
 E-mail: <fulle@bio.mx>  
@@ -62,8 +61,7 @@ Twitter: [@samoturk](https://twitter.com/samoturk)
 2013: Postdoc in Bioinformatics at the University of Hamburg (Pro Exzellenzia Fellowship)  
 01/2013: PhD in Structural Bioinformatics at the University of Hamburg
 
-Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT;  
-research stay at the Purdue University, IN, USA (2007/2008).  
+Developed software for target assessment based on active site analysis; collaborated with Merck and BioSolveIT; research stay at the Purdue University, IN, USA.  
 ##### Contact
 E-mail: <volkamer@bio.mx>  
 Phone: +49-6221-6545627  

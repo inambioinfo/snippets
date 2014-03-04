@@ -26,7 +26,7 @@ LinkedIn: [Profile](http://www.linkedin.com/pub/jan-reiling/1/62b/885)
 ![Silvia Ramírez-Peinado](http://media.bio.mx/teams/msc/ramirez.jpg)
 #### Postdoc
 ##### Previous work
-2012-2013: Postdoc with Dr. Muñoz-Pinedo, IDIBELL (Bellvitge Biomedical Research Institute), University of Barcelona - cell death regulation  
+2012-2013: Postdoc with Dr. Muñoz-Pinedo, IDIBELL (Bellvitge Biomedical Research Institute), University of Barcelona in collaboration with Prof. Jochen Prehn from Royal Collage of surgeons, Ireland - understanding cell metabolism and its role in stroke  
 2009-2012: PhD in biomedicine with Dr. Muñoz-Pinedo, IDIBELL, Barcelona - regulation of cell death, autophagy and metabolism in cancer  
 
 EMBO short-term fellowship  

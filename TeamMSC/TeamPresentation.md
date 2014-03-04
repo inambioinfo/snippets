@@ -96,7 +96,7 @@ Hochschule Mannheim
 E-mail: <annaosipow@yahoo.de>  
 
 ##### Mentors
-- Dr. Ralph LIndemann: Director & Head of Operations Translational Innovation Platform Oncology, Merck Serono, Darmstadt (industry mentor)
+- Dr. Ralph Lindemann: Director & Head of Operations Translational Innovation Platform Oncology, Merck Serono, Darmstadt (industry mentor)
 - Prof. Kiran Patil: Group Leader, Structural and Computational Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg (academic mentor)
 
 

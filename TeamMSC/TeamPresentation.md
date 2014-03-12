@@ -80,6 +80,7 @@ LinkedIn: [Profile](http://www.linkedin.com/profile/view?id=251581603)
 ~#~
 
 ### Marco Albrecht
+![Marco Albrecht](http://media.bio.mx/teams/msc/albrecht.jpg)
 #### Student
 ##### Previous work
 2013: Bachelor in Biosystems Technology, University of Magdeburg  
@@ -89,6 +90,7 @@ E-mail: <albrecht@bio.mx>
 ~#~
 
 ### Anna Osipow
+![Anna Osipow](http://media.bio.mx/teams/msc/osipow.jpg)
 #### Student
 ##### Previous work
 Hochschule Mannheim

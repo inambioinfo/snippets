@@ -1,4 +1,12 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+
+__author__ = "Samo Turk"
+__copyright__ = "Copyright (C) 2014 by BioMed X GmbH"
+__credits__ = ["Simone Fulle",]
+__license__ = "GPL"
+__version__ = "0.1"
+__email__ = "turk@bio.mx"
+__status__ = "Development"
 
 import argparse
 import sys

@@ -2,7 +2,7 @@
 
 __author__ = "Samo Turk"
 __copyright__ = "Copyright (C) 2014 by BioMed X GmbH"
-__credits__ = ["Simone Fulle",]
+__credits__ = ["Simone Fulle", "Katra Kolsek"]
 __license__ = "GPL"
 __version__ = "0.1"
 __email__ = "turk@bio.mx"
@@ -48,6 +48,7 @@ if __name__ == "__main__":
     informat = args.infile.split(".")[-1]
     outformat = args.outfile.split(".")[-1]
     
+    # Limit acceptable in and out formats
     informats = ['smi', 'ism', 'sdf', 'mol2', 'mol', 'pdb']
     outformats = ['mol2', 'sdf', 'pdbqt']
     
@@ -58,13 +59,13 @@ if __name__ == "__main__":
         for mol in mols:
             numMols += 1
         mols = pybel.readfile(informat, args.infile)
-        os.system('cls' if os.name == 'nt' else 'clear')
+        os.system('cls' if os.name == 'nt' else 'clear') # Clear the terminal
         molsdetected = str(numMols) + " molecules detected."
         print(molsdetected)
         i = 1
         output = pybel.Outputfile(outformat, args.outfile, overwrite=True)
         for mol in mols:
-            gen3D(mol, pH=float(args.ph), forcefield=args.forcefield, s1=int(args.steps1), s2=int(args.steps2))
+            mol = gen3D(mol, pH=float(args.ph), forcefield=args.forcefield, s1=int(args.steps1), s2=int(args.steps2))
             os.system('cls' if os.name == 'nt' else 'clear')
             print(molsdetected)
             print("Processing molecule titled: " + str(mol.title))

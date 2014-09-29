@@ -1,4 +1,4 @@
-Code in this repository is copyright (C) 2013 by Simone Fulle, Sameh Eid, Samo
+Code in this repository is copyright (C) 2013, 2014 by Simone Fulle, Sameh Eid, Samo
 Turk and Andrea Volkamer, BioMed X GmbH
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0

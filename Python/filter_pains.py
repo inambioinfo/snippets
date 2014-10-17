@@ -3,7 +3,7 @@
 __author__ = "Samo Turk"
 __copyright__ = "Copyright (C) 2014 by BioMed X GmbH"
 __license__ = "GPL"
-__version__ = "0.1"
+__version__ = "0.2"
 __email__ = "turk@bio.mx"
 __status__ = "Development"
 
@@ -512,12 +512,22 @@ def Substructs(smartsDict):
         rdSubstructs.append(m)
     return rdSubstructs
 
-def filterPains(infile, outfile, outfiledirty, substructs):
+def CountLines(infile):
+    '''
+    number of lines should be number of molecules
+    '''
+    with open(infile) as infileopened:
+        for i,l in enumerate(infileopened):
+            pass
+    return i+1
+
+def filterPainsSDF(infile, outfile, outfiledirty, substructs):
     """
     Splits sdf in two, one with clean compounds and one with dirty
     """
     start_time = time.time()
     suppl = Chem.SDMolSupplier(infile)
+    # log file
     f = open('log_file.txt', 'w')
     f.close()
     f = open('log_file.txt', 'a')
@@ -543,17 +553,67 @@ def filterPains(infile, outfile, outfiledirty, substructs):
             f.write('FAIL with compound no. ' + str(c) + '\n')
 
         else:
-            if any(mol.HasSubstructMatch(sub) for sub in substructs):
+            if any([mol.HasSubstructMatch(sub) for sub in substructs]):
                 wnotOK.write(mol)
                 wOKc += 1
             else:
                 wOK.write(mol)
                 wnotOKc += 1
+    print("%i molecules passed and %i failed" % (wnotOKc, wOKc))
     print("Execution time: %s seconds" % str(time.time() - start_time))
     f.close()
+    
+def filterPainsSMI(infile, outfile, outfiledirty, substructs):
+    """
+    Splits sdf in two, one with clean compounds and one with dirty
+    """
+    start_time = time.time()
+    # log file
+    f = open('log_file.txt', 'w')
+    f.close()
+    f = open('log_file.txt', 'a')
+
+    os.system('cls' if os.name == 'nt' else 'clear') # Clear the terminal
+    molsdetected = str(CountLines(infile))
+    print(molsdetected + " molecules detected.")
+    
+    wOK = open(outfile, 'w') # forces overwrite
+    wOK.close()
+    wOK = open(outfile, 'a')
+    wnotOK = open(outfiledirty, 'w') # forces overwrite
+    wnotOK.close()
+    wnotOK = open(outfiledirty, 'a')
+    
+    wOKc = 0
+    wnotOKc = 0
+    c = 0
+    
+    with open(infile) as suppl:
+        for x in suppl:
+            c += 1
+            mol = Chem.MolFromSmiles(x.split("\t")[0]) # assuming tab delimited smiles (OpenBabel)
+            if c % 50 == 0:
+                os.system('cls' if os.name == 'nt' else 'clear')
+                print("Processing " + str(c) + " out of " + str(molsdetected))
+            if mol is None:
+                f.write('FAIL with compound no. ' + str(c) + '\n')
+
+            else:
+                if any([mol.HasSubstructMatch(sub) for sub in substructs]):
+                    wnotOK.write(x)
+                    wOKc += 1
+                else:
+                    wOK.write(x)
+                    wnotOKc += 1
+        print("%i molecules passed and %i failed" % (wnotOKc, wOKc))
+        print("Execution time: %s seconds" % str(time.time() - start_time))
+        f.close()
+        wOK.close()
+        wnotOK.close()
+
 
 def arg_parser():
-    parser = argparse.ArgumentParser(description='Filter molecules with PAINS. Accepts only sdf as input and output')
+    parser = argparse.ArgumentParser(description='Filter molecules with PAINS. Accepts only sdf or smi as input and output formats. All have to be of the same type.')
     parser.add_argument('-i', '--infile', help="Specifies input file")
     parser.add_argument('-o', '--outfile', help="Specifies output file for clean molecules")
     parser.add_argument('-d', '--outfiledirty', help="Specifies output file for dirty molecules")
@@ -576,8 +636,15 @@ if __name__ == "__main__":
 
         substructs = Substructs(pains)
 
-        filterPains(args.infile, args.outfile, args.outfiledirty, substructs)
+        filterPainsSDF(args.infile, args.outfile, args.outfiledirty, substructs)
+    
+    elif informat.lower() == 'smi' and outformat.lower() == 'smi' and outformatdirty.lower() == 'smi':
+
+        substructs = Substructs(pains)
+
+        filterPainsSMI(args.infile, args.outfile, args.outfiledirty, substructs)
 
     else:
-        print("Format either of infile or outfile not sdf")
+        print("Format either of infile or outfile not sdf or smi")
+        print("All input file and output files have to be same format")
     

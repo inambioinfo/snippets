@@ -22,8 +22,7 @@ IPython notebook: [download](https://github.com/Team-SKI/snippets/blob/master/IP
 - - - - - - -
 
 #### Other
-  * ##### Demo of proposed new functions for RDKit pandas integration
-Demo of SaveXlsxFromFrame function that can export PandasDataFrame to excel with images of mols included.  
+  * ##### Demo of SaveXlsxFromFrame function that can export PandasDataFrame to excel with images of mols included.  
 IPython notebook: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/XLSX%20export.ipynb), [view](http://nbviewer.ipython.org/github/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/XLSX%20export.ipynb)  
 Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/demo.xlsx)
   

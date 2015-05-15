@@ -13,6 +13,8 @@ IPython notebook: [download](https://github.com/Team-SKI/snippets/blob/master/IP
 - - - - - - -
 
 #### Internal presentations
+  * ##### Basic enzyme kinetics in drug design
+  IPython notebook: [download and view](https://github.com/Team-SKI/snippets/blob/master/IPython/Basic%20enzyme%20kinetics%20in%20drug%20design.ipynb)
   * ##### Scaffold analysis in Python with RDKit and pandas & Schnellkurs programming and chemoinformatics
 Internal presentation given at BioMed X Team meeting, March 2014  
 IPython notebook: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/Scaffold%20analysis%20%26%20Schnellkurs%20in%20chemoinformatics.ipynb), [view](http://nbviewer.ipython.org/github/Team-SKI/snippets/blob/master/IPython/Scaffold%20analysis%20%26%20Schnellkurs%20in%20chemoinformatics.ipynb)

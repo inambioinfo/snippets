@@ -1,4 +1,4 @@
-#### Code snippets from [BioMed X](http://bio.mx/) 
+#### Code snippets from Team-SKI @ [BioMed X](http://bio.mx/) Innovation Center, Heidelberg 
 This repository contains some code snippets that demonstrate the use of RDKit, pandas, and other Python libaries for typical cheminformatics tasks.  
 
 #### IPython notebooks 

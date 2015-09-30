@@ -1,8 +1,8 @@
 #### Code snippets from [BioMed X](http://bio.mx/) 
 This repository contains some code snippets that demonstrate the use of RDKit, pandas, and other Python libaries for typical cheminformatics tasks.  
 
-## IPython notebooks
-#### Talks given on conferences
+#### IPython notebooks
+Talks given on conferences
   * ##### Scaffold analysis of ChEMBL data with pandas and RDKit
 Presentation/tutorial given at [RDKit UGM](https://github.com/rdkit/UGM_2014), October 2014, Darmstadt  
 IPython notebook: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb), [view](http://nbviewer.ipython.org/github/Team-SKI/snippets/blob/master/IPython/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb)
@@ -39,7 +39,7 @@ This notebook extracts all kinase inhibitors that are in clinical trials or on t
 IPython notebook: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/Kinase inhibitors - approved or in clinical trials.ipynb), [view](http://nbviewer.ipython.org/github/Team-SKI/snippets/blob/master/IPython/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
 - - - - - - -
 
-### Python scripts
+#### Python scripts
   * ##### [prepare_for_docking.py](https://github.com/Team-SKI/snippets/blob/master/Python/prepare_for_docking.py)
 Script that uses Openbabel Python bindings to generate 3D structures of compounds.  
 For usage info run `prepare_for_docking.py -h`

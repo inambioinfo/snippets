@@ -1,8 +1,7 @@
 #### Code snippets from [BioMed X](http://bio.mx/) 
 This repository contains some code snippets that demonstrate the use of RDKit, pandas, and other Python libaries for typical cheminformatics tasks.  
 
-#### IPython notebooks
-Talks given on conferences
+#### IPython notebooks 
   * ##### Scaffold analysis of ChEMBL data with pandas and RDKit
 Presentation/tutorial given at [RDKit UGM](https://github.com/rdkit/UGM_2014), October 2014, Darmstadt  
 IPython notebook: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb), [view](http://nbviewer.ipython.org/github/Team-SKI/snippets/blob/master/IPython/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb)

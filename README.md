@@ -17,7 +17,7 @@ This repository contains scripts and data used in publications & code snippets t
 
 ---
 #### Publications
-  * **Profiling prediction of kinase inhibitors, submitted**  
+  * **Profiling prediction of kinase inhibitors**  
  
 ---
 #### Presentations and tutorials

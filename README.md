@@ -41,7 +41,7 @@ Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master
 Internal presentation given at BioMed X team meeting, March 2014  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Scaffold%20analysis%20%26%20Schnellkurs%20in%20chemoinformatics.ipynb)
 
-  * **Internal presentation on Markdown usage**  
+  * **Presentation on Markdown usage**  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Markdown%20demo.ipynb)
  
   * **Demo of new functions for RDKit pandas integration; [integrated in RDKit 2013](https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e)**    

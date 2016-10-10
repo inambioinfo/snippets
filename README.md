@@ -36,10 +36,12 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Chemin
  Script that uses RDKit to remove PAINS compounds from sdf or smi.  
 For usage info run `filter_pains.py -h`
 
+- - -
 #### Kinase inhibitors
  * ##### Kinase inhibitors - approved or in clinical trials
 This notebook extracts all kinase inhibitors that are in clinical trials or on the market.  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase%20inhibitors/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
+
 - - -
 #### Presentations and tutorials
 ##### Molecular Modelling Workshop 2014
@@ -55,8 +57,11 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presen
  * ##### Demo of SaveXlsxFromFrame function that can export PandasDataFrame to excel with images of mols included.  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/rdkit_hackaton/XLSX%20export.ipynb)  
 Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/demo.xlsx)
+
 - - -
 #### Publications
+
+- - -
 #### Structural bioinformatics
  * ##### [prepare_for_docking.py] (https://github.com/Team-SKI/snippets/blob/master/Structural%20bioinformatics/prepare_for_docking.py)
  Script that uses Openbabel Python bindings to generate 3D structures of compounds.  

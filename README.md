@@ -21,14 +21,12 @@ This repository contains some code snippets that demonstrate the use of RDKit, p
  
 ---
 #### Presentations and tutorials
-##### *Molecular Modelling Workshop 2014*
+##### *Molecular Modelling Workshop 2014, Erlangen*
  * ##### Scaffold analysis in Python with RDKit and pandas
-Presentation/tutorial given at 28th Molecular Modelling Workshop, 2014 in Erlangen  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/Molecular%20Modelling%20Workshop%202014/Scaffold%20analysis%20in%20Python%20with%20RDKit%20and%20pandas%20-%20MMWS%20Erlangen%202014.ipynb)
 
-##### *RDKit UGM 2014*
- * ##### Scaffold analysis of ChEMBL data with pandas and RDKit 
-Presentation/tutorial given at [RDKit UGM](https://github.com/rdkit/UGM_2014), October 2014, Darmstadt  
+##### *RDKit UGM 2014, Darmstadt* https://github.com/rdkit/UGM_2014)
+ * ##### Scaffold analysis of ChEMBL data with pandas and RDKit @ [RDKit UGM](https://github.com/rdkit/UGM_2014)
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb)
 
  * ##### Demo of SaveXlsxFromFrame function that can export PandasDataFrame to excel with images of mols included.  

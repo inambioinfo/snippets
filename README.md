@@ -14,6 +14,26 @@ This repository contains some code snippets that demonstrate the use of RDKit, p
 └── Structural bioinformatics
 
 ```
+
+- - -
+#### Publications
+
+- - -
+#### Presentations and tutorials
+##### Molecular Modelling Workshop 2014
+ * ##### Scaffold analysis in Python with RDKit and pandas
+ Presentation/tutorial given at 28th Molecular Modelling Workshop, 2014 in Erlangen  
+IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/Molecular%20Modelling%20Workshop%202014/Scaffold%20analysis%20in%20Python%20with%20RDKit%20and%20pandas%20-%20MMWS%20Erlangen%202014.ipynb)
+
+##### RDKit UGM 2014
+ * ##### Scaffold analysis of ChEMBL data with pandas and RDKit
+ Presentation/tutorial given at [RDKit UGM](https://github.com/rdkit/UGM_2014), October 2014, Darmstadt  
+IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb)
+
+ * ##### Demo of SaveXlsxFromFrame function that can export PandasDataFrame to excel with images of mols included.  
+IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/rdkit_hackaton/XLSX%20export.ipynb)  
+Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/demo.xlsx)
+
 #### Cheminformatics
 ##### Basics
  * ##### Scaffold analysis in Python with RDKit and pandas & Schnellkurs programming and chemoinformatics
@@ -41,25 +61,6 @@ For usage info run `filter_pains.py -h`
  * ##### Kinase inhibitors - approved or in clinical trials
 This notebook extracts all kinase inhibitors that are in clinical trials or on the market.  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase%20inhibitors/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
-
-- - -
-#### Presentations and tutorials
-##### Molecular Modelling Workshop 2014
- * ##### Scaffold analysis in Python with RDKit and pandas
-Presentation/tutorial given at 28th Molecular Modelling Workshop, 2014 in Erlangen  
-IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/Molecular%20Modelling%20Workshop%202014/Scaffold%20analysis%20in%20Python%20with%20RDKit%20and%20pandas%20-%20MMWS%20Erlangen%202014.ipynb)
-
-##### RDKit UGM 2014
- * ##### Scaffold analysis of ChEMBL data with pandas and RDKit
-Presentation/tutorial given at [RDKit UGM](https://github.com/rdkit/UGM_2014), October 2014, Darmstadt  
-IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb)
-
- * ##### Demo of SaveXlsxFromFrame function that can export PandasDataFrame to excel with images of mols included.  
-IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/rdkit_hackaton/XLSX%20export.ipynb)  
-Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/demo.xlsx)
-
-- - -
-#### Publications
 
 - - -
 #### Structural bioinformatics

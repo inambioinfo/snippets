@@ -53,7 +53,7 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Chemin
 
 ##### *Screening*
   * **[filter_pains.py](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Screening/filter_pains.py)**  
-Script that uses RDKit to remove PAINS compounds from sdf or smile files.  
+Python script that uses RDKit to remove PAINS compounds from sdf or smile files.  
 For usage info run `filter_pains.py -h`
 
 ---

@@ -53,7 +53,7 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Chemin
 
 ##### *Screening*
   * **[filter_pains.py](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Screening/filter_pains.py)**  
-Python script that uses RDKit to remove PAINS compounds from sdf or smile files.  
+Script that uses RDKit to remove PAINS compounds from sdf or smile files.  
 For usage info run `filter_pains.py -h`
 
 ---
@@ -65,5 +65,5 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase
 ---
 #### Structural bioinformatics
   * **[prepare_for_docking.py](https://github.com/Team-SKI/snippets/blob/master/Structural%20bioinformatics/prepare_for_docking.py)**  
-Python script that uses Open Babel to generate 3D structures of compounds.  
+Script that uses Open Babel to generate 3D structures of compounds.  
 For usage info run `prepare_for_docking.py -h`

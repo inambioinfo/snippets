@@ -5,7 +5,8 @@ __copyright__ = "Copyright (C) 2014 by BioMed X GmbH"
 __license__ = "GPL"
 __version__ = "0.2"
 __email__ = "turk@bio.mx"
-__status__ = "Development"
+__status__ = "Obsolete"
+__note__ = "Obsolete, check: https://github.com/rdkit/rdkit/tree/master/Code/GraphMol/FilterCatalog"
 
 '''
 Smarts for pains adapted from:
@@ -613,7 +614,8 @@ def filterPainsSMI(infile, outfile, outfiledirty, substructs):
 
 
 def arg_parser():
-    parser = argparse.ArgumentParser(description='Filter molecules with PAINS. Accepts only sdf or smi as input and output formats. All have to be of the same type.')
+    parser = argparse.ArgumentParser(description='Filter molecules with PAINS. Accepts only sdf or smi as input and output formats. All have to be of the same type.\
+                                        NOTE: this method is obsolete, check https://github.com/rdkit/rdkit/tree/master/Code/GraphMol/FilterCatalog')
     parser.add_argument('-i', '--infile', help="Specifies input file")
     parser.add_argument('-o', '--outfile', help="Specifies output file for clean molecules")
     parser.add_argument('-d', '--outfiledirty', help="Specifies output file for dirty molecules")

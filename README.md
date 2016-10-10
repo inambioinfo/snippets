@@ -44,7 +44,7 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Chemin
   * **Internal presentation on Markdown usage**  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Markdown%20demo.ipynb)
  
-  * **Demo of new functions for RDKit pandas integration; [integrated in RDKit 2013](https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e)*  
+  * **Demo of new functions for RDKit pandas integration; [integrated in RDKit 2013](https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e)**    
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/RDKit%26pandas%20demo%20of%20new%20functions.ipynb)
 
   * **Custom objects and their rendering in IPython**  

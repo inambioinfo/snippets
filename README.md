@@ -32,12 +32,12 @@ Example of how to use object representations
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Custom%20objects%20and%20their%20rendering%20in%20IPython.ipynb)
 
 ##### Screening
- * ##### [filter_pains.py](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Screening/filter_pains.py)
-Script that uses RDKit to remove PAINS compounds from sdf or smi.  
+ * [filter_pains.py](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Screening/filter_pains.py)
+ Script that uses RDKit to remove PAINS compounds from sdf or smi.  
 For usage info run `filter_pains.py -h`
 
 #### Kinase inhibitors
- * ##### Kinase inhibitors - approved or in clinical trials
+ * ##### Kinase inhibitors - approved or in clinical trials 
 This notebook extracts all kinase inhibitors that are in clinical trials or on the market.  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase%20inhibitors/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
 
@@ -59,5 +59,5 @@ Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master
 #### Publications
 #### Structural bioinformatics
  * ##### [prepare_for_docking.py] (https://github.com/Team-SKI/snippets/blob/master/Structural%20bioinformatics/prepare_for_docking.py)
-Script that uses Openbabel Python bindings to generate 3D structures of compounds.  
+ Script that uses Openbabel Python bindings to generate 3D structures of compounds.  
 For usage info run `prepare_for_docking.py -h`

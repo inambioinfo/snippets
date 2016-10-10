@@ -1,5 +1,4 @@
-Code in this repository is copyright (C) 2013, 2014 by Simone Fulle, Sameh Eid, Samo
-Turk and Andrea Volkamer, BioMed X GmbH
+Code in this repository is copyright (C) 2013-2016 by Team SKI @ BioMed X GmbH
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
 License. To view a copy of this license, visit

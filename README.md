@@ -15,10 +15,10 @@ This repository contains some code snippets that demonstrate the use of RDKit, p
 
 ```
 
-- - -
+---
 #### Publications
 
-- - -
+---
 #### Presentations and tutorials
 ##### Molecular Modelling Workshop 2014
  * ##### Scaffold analysis in Python with RDKit and pandas
@@ -34,7 +34,7 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presen
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/rdkit_hackaton/XLSX%20export.ipynb)  
 Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/demo.xlsx)
 
-- - -
+---
 #### Cheminformatics
 ##### Basics
  * ##### Scaffold analysis in Python with RDKit and pandas & Schnellkurs programming and chemoinformatics
@@ -57,13 +57,13 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Chemin
 Script that uses RDKit to remove PAINS compounds from sdf or smi.  
 For usage info run `filter_pains.py -h`
 
-- - -
+---
 #### Kinase inhibitors
  * Kinase inhibitors - approved or in clinical trials
 This notebook extracts all kinase inhibitors that are in clinical trials or on the market.  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase%20inhibitors/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
 
-- - -
+---
 #### Structural bioinformatics
  * [prepare_for_docking.py] (https://github.com/Team-SKI/snippets/blob/master/Structural%20bioinformatics/prepare_for_docking.py)
 Script that uses Openbabel Python bindings to generate 3D structures of compounds.  

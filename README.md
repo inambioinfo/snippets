@@ -42,7 +42,7 @@ Internal presentation given at BioMed X team meeting, March 2014
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Scaffold%20analysis%20%26%20Schnellkurs%20in%20chemoinformatics.ipynb)
 
   * **Markdown usage**  
-IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Markdown%20demo.ipynb)
+Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Markdown%20demo.ipynb)
  
   * **RDKit pandas integration**  
 Demo of new functions that were [integrated in RDKit 2013](https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e)   
@@ -60,8 +60,8 @@ For usage info run `filter_pains.py -h`
 ---
 #### Kinase inhibitors
   * **Kinase inhibitors - approved or in clinical trials**  
-Jupyter notebook that extracts all kinase inhibitors that are in clinical trials or are on the market.  
-IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase%20inhibitors/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
+Notebook that extracts all kinase inhibitors that are in clinical trials or are on the market.  
+Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase%20inhibitors/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
 
 ---
 #### Structural bioinformatics

@@ -1,5 +1,5 @@
 #### Code snippets from Team-SKI @ [BioMed X](http://bio.mx/) Innovation Center, Heidelberg 
-This repository contains scripts & data used in publications as well as code snippets that shall demonstrate the use of RDKit, pandas, and other Python libaries for common computer-aided drug design tasks.  
+This repository contains scripts & data used in publications as well as code snippets that shall demonstrate the use of RDKit, pandas, and other python libaries for common computer-aided drug design tasks.  
 
 ```
 ├── Cheminformatics

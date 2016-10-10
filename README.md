@@ -30,7 +30,7 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presen
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb)
 
   * **hackaton**  
-Demo of SaveXlsxFromFrame function that can export PandasDataFrame to Excel inclduing images of molecules**  
+Demo of SaveXlsxFromFrame function that can export PandasDataFrame to Excel inclduing images of molecules.  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/rdkit_hackaton/XLSX%20export.ipynb)  
 Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/demo.xlsx)
 
@@ -44,7 +44,7 @@ IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Chemin
   * **Internal presentation on Markdown usage**  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Markdown%20demo.ipynb)
  
-  * **Demo of new functions for RDKit pandas integration; [integrated in RDKit 2013](https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e) **  
+  * **Demo of new functions for RDKit pandas integration; [integrated in RDKit 2013](https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e)*  
 IPython notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/RDKit%26pandas%20demo%20of%20new%20functions.ipynb)
 
   * **Custom objects and their rendering in IPython**  

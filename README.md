@@ -36,7 +36,6 @@ Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master
 
 ---
 #### Cheminformatics
-##### *Basics*
   * **Scaffold analysis in Python with RDKit and pandas**  
 Internal presentation given at BioMed X team meeting, March 2014  
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Scaffold%20analysis%20%26%20Schnellkurs%20in%20chemoinformatics.ipynb)

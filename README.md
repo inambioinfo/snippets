@@ -43,7 +43,7 @@ Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Chemin
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Markdown%20demo.ipynb)
  
   * **RDKit pandas integration**  
-Demo of new functions that were integrated in [RDKit]. (https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e), 2013   
+Demo of new functions that were integrated in [RDKit] (https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e), 2013   
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/RDKit%26pandas%20demo%20of%20new%20functions.ipynb)
 
   * **Rendering of images in IPython**  

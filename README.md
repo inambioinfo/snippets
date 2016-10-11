@@ -21,8 +21,8 @@ This repository contains scripts and data used in publications & code snippets t
 
 ---
 #### Presentations and tutorials
-  * **Molecular Modelling Workshop 2014**
-  ** **Scaffold analysis in Python with RDKit and pandas**  
+  * **Molecular Modelling Workshop 2014**  
+  ** *Scaffold analysis in Python with RDKit and pandas*  
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/Molecular%20Modelling%20Workshop%202014/Scaffold%20analysis%20in%20Python%20with%20RDKit%20and%20pandas%20-%20MMWS%20Erlangen%202014.ipynb)
 
 ##### *RDKit UGM 2014* - [RDKit UGM](https://github.com/rdkit/UGM_2014)

@@ -52,11 +52,6 @@ Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Chemin
 Example of how to use object representations.  
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Custom%20objects%20and%20their%20rendering%20in%20IPython.ipynb)
 
-##### *Screening*
-  * **[filter_pains.py](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Screening/filter_pains.py)**   
-Script that uses RDKit to remove PAINS compounds from sdf or smile files.  
-For usage info run `filter_pains.py -h`
-
 ---
 #### Kinase-Inhibitors
   * **approved or in clinical trials**  
@@ -64,7 +59,13 @@ Notebook that extracts all kinase inhibitors that are in clinical trials or are 
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase%20inhibitors/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
 
 ---
-#### Structural bioinformatics
-  * **[prepare_for_docking.py](https://github.com/Team-SKI/snippets/blob/master/Structural%20bioinformatics/prepare_for_docking.py)**   
-Script that uses Open Babel to generate 3D structures of compounds.    
+#### Virtual-Screening
+  * **ligand-3D-conformations**
+[prepare_for_docking.py](https://github.com/Team-SKI/snippets/blob/master/Structural%20bioinformatics/prepare_for_docking.py): Script that uses Open Babel to generate 3D structures of compounds.    
 For usage info run `prepare_for_docking.py -h`
+
+
+##### *Screening*
+  * **filtering**  
+[filter_pains.py](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Screening/filter_pains.py): Script that uses RDKit to remove PAINS compounds from sdf or smile files.  
+For usage info run `filter_pains.py -h`

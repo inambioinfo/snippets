@@ -58,8 +58,8 @@ Script that uses RDKit to remove PAINS compounds from sdf or smile files.
 For usage info run `filter_pains.py -h`
 
 ---
-#### Kinase inhibitors
-  * **Kinase inhibitors - approved or in clinical trials**  
+#### Kinase-Inhibitors
+  * **approved or in clinical trials**  
 Notebook that extracts all kinase inhibitors that are in clinical trials or are on the market.  
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Kinase%20inhibitors/Kinase%20inhibitors%20-%20approved%20or%20in%20clinical%20trials.ipynb)
 

@@ -36,14 +36,14 @@ Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presen
 ---
 #### Cheminformatics
   * **Scaffold analysis in Python with RDKit and pandas**  
-Internal presentation given at BioMed X team meeting, March 2014  
+Internal presentation given at BioMed X team meeting, March 2014.  
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Scaffold%20analysis%20%26%20Schnellkurs%20in%20chemoinformatics.ipynb)
 
   * **Markdown usage**  
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/Markdown%20demo.ipynb)
  
   * **RDKit pandas integration**  
-Demo of new functions that were integrated in [RDKit] (https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e), 2013   
+Demo of new functions that were integrated in [RDKit]. (https://github.com/rdkit/rdkit/commit/8269bc9002cf3c6b106c847d86bcbabc016b697e), 2013   
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Cheminformatics/Basics/RDKit%26pandas%20demo%20of%20new%20functions.ipynb)
 
   * **Rendering of images in IPython**  

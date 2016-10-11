@@ -28,8 +28,7 @@ Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presen
   * **RDKit UGM 2014** - [RDKit UGM](https://github.com/rdkit/UGM_2014)  
 *Scaffold analysis of ChEMBL data with pandas and RDKit*  
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/Scaffold%20analysis%20of%20ChEMBL%20data%20with%20pandas%20and%20RDKit%20-%20RDKit%20UGM2014.ipynb)  
-
-*hackaton\ *  
+*.\hackaton\ *  
 Demo of SaveXlsxFromFrame function that can export PandasDataFrame to Excel inclduing images of molecules.  
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/RDKit%20UGM%202014/rdkit_hackaton/XLSX%20export.ipynb)  
 Resulting demo xlsx: [download](https://github.com/Team-SKI/snippets/blob/master/IPython/rdkit_hackaton/demo.xlsx)

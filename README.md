@@ -16,10 +16,6 @@ This repository contains scripts and data used in publications & code snippets t
 ```
 
 ---
-#### Publications
-  * **Profiling prediction of kinase inhibitors**
-
----
 #### Presentations and tutorials
   * **Molecular Modelling Workshop 2014**  
 *Scaffold analysis in Python with RDKit and pandas*  

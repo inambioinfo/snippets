@@ -4,8 +4,10 @@ This repository contains scripts and data used in publications & code snippets t
 ```
 ├── Cheminformatics
 │   └── scaffold-analysis
+│
 ├── Kinase inhibitors
 │   └── approved-or-in-clinical-trials
+│
 └── Presentations and Tutorials
     ├── Molecular Modelling Workshop 2014
     └── RDKit UGM 2014

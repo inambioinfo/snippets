@@ -3,16 +3,13 @@ This repository contains scripts and data used in publications & code snippets t
 
 ```
 ├── Cheminformatics
-│   ├── Basics
-│   └── Screening
+│   └── scaffold-analysis
 ├── Kinase inhibitors
-├── Presentations and tutorials
-│   ├── Molecular Modelling Workshop 2014
-│   └── RDKit UGM 2014
-│       └── rdkit_hackaton
-├── Publications
-└── Structural bioinformatics
-
+│   └── approved-or-in-clinical-trials
+└── Presentations and Tutorials
+    ├── Molecular Modelling Workshop 2014
+    └── RDKit UGM 2014
+        └── hackaton
 ```
 
 ---

@@ -8,10 +8,12 @@ This repository contains scripts and data used in publications & code snippets t
 ├── Kinase inhibitors
 │   └── approved-or-in-clinical-trials
 │
-└── Presentations and Tutorials
-    ├── Molecular Modelling Workshop 2014
-    └── RDKit UGM 2014
-        └── hackaton
+├── Presentations and Tutorials
+│   ├── Molecular Modelling Workshop 2014
+│   └── RDKit UGM 2014
+│       └── hackaton
+│
+└── Virtual-Screening
 ```
 
 ---

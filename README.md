@@ -24,7 +24,7 @@ This repository contains scripts and data used in publications & code snippets t
 Jupyter notebook: [view](https://github.com/Team-SKI/snippets/blob/master/Presentations%20and%20tutorials/Molecular%20Modelling%20Workshop%202014/Scaffold%20analysis%20in%20Python%20with%20RDKit%20and%20pandas%20-%20MMWS%20Erlangen%202014.ipynb)
 
   * **Protvec demo 2017**  
- 'Demo of encoding protein sequences via vectors.*
+*Demo of encoding protein sequences via vectors*
 
   * **RDKit UGM 2014** - [RDKit UGM](https://github.com/rdkit/UGM_2014)  
 *Scaffold analysis of ChEMBL data with pandas and RDKit*  

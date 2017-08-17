@@ -1,4 +1,4 @@
-#### Code snippets from Team-SKI (2013-2017)  
+#### Code snippets from Team-SKI 
 This repository contains code snippets that shall demonstrate the use of RDKit, pandas, and other python libaries for common computer-aided drug design tasks. 
 
 ```
